@@ -1,0 +1,5 @@
+*.o
+*.log
+iso/
+nbu os.zip
+.DS_Store
